@@ -231,4 +231,4 @@ This repository serves as the official landing page for Presto. The software is 
 **Get the most recent version of Presto today!**
 
 ---
-**Last updated:** 2026-10-12 19:27:09 UTC
+**Last updated:** 2026-10-13 01:40:59 UTC
